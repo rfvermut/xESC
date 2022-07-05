@@ -1,0 +1,17 @@
+### Module positions - created on Tue 05 Jul 2022 09:34:46  ###
+### Printed by KiBot
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref    Val              Package                                  PosX       PosY        Rot        Side  
+C28      27pF             C_0603_1608Metric                        263.7000   -109.2000   -90.0000   bottom
+C29      27pF             C_0603_1608Metric                        257.9000   -109.2000   90.0000    bottom
+FID3     Fiducial         Fiducial_0.75mm_Mask1.5mm                270.5000   -127.4000   0.0000     bottom
+FID6     Fiducial         Fiducial_0.75mm_Mask1.5mm                231.4000   -124.8000   0.0000     bottom
+FID7     Fiducial         Fiducial_0.75mm_Mask1.5mm                270.5000   -109.4000   0.0000     bottom
+FID8     Fiducial         Fiducial_0.75mm_Mask1.5mm                232.8000   -107.3000   0.0000     bottom
+R23      120R             R_0805_2012Metric                        233.4000   -111.4000   -90.0000   bottom
+R24      10K              R_0603_1608Metric                        251.2000   -113.8000   90.0000    bottom
+U6       SN65HVD232       SOIC-8_3.9x4.9mm_P1.27mm                 238.2000   -111.6000   180.0000   bottom
+U7       MCP2515-xST      TSSOP-20_4.4x6.5mm_P0.65mm               246.4700   -111.4645   -90.0000   bottom
+Y2       Crystal_GND24    Crystal_SMD_3225-4Pin_3.2x2.5mm          260.8000   -109.3000   0.0000     bottom
+## End
