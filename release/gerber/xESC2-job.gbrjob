@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "6.0.5+dfsg-1~bpo11+1"
     },
-    "CreationDate": "2022-07-05T09:34:46+00:00"
+    "CreationDate": "2022-07-20T16:37:16+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -26,19 +26,19 @@
       "Layers": "Outer",
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
-      "TrackToTrack": 0.1525,
-      "MinLineWidth": 0.1525,
-      "TrackToRegion": 0.1525,
-      "RegionToRegion": 0.1525
+      "TrackToTrack": 0.127,
+      "MinLineWidth": 0.127,
+      "TrackToRegion": 0.127,
+      "RegionToRegion": 0.127
     },
     {
       "Layers": "Inner",
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
-      "TrackToTrack": 0.1525,
-      "MinLineWidth": 0.1525,
-      "TrackToRegion": 0.1525,
-      "RegionToRegion": 0.1525
+      "TrackToTrack": 0.127,
+      "MinLineWidth": 0.127,
+      "TrackToRegion": 0.127,
+      "RegionToRegion": 0.127
     }
   ],
   "FilesAttributes": [
@@ -109,53 +109,44 @@
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.48,
       "Material": "FR4",
       "Name": "F.Cu/GND",
       "Notes": "Type: dielectric layer 1 (from F.Cu to GND)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "GND"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.48,
       "Material": "FR4",
       "Name": "GND/VM",
       "Notes": "Type: dielectric layer 2 (from GND to VM)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "VM"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.48,
       "Material": "FR4",
       "Name": "VM/B.Cu",
       "Notes": "Type: dielectric layer 3 (from VM to B.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {
